@@ -1,5 +1,4 @@
----
-id: environment-setup
+importtup
 title: Get Started with React Native
 hide_table_of_contents: true
 ---
